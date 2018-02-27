@@ -1,0 +1,50 @@
+c:\users\amandeep\documents\visual studio 2012\Projects\Final project\Final project\bin\Debug\Final project.exe.config
+c:\users\amandeep\documents\visual studio 2012\Projects\Final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+c:\users\amandeep\documents\visual studio 2012\Projects\Final project\Final project\obj\Debug\Final project.csproj.GenerateResource.Cache
+c:\users\amandeep\documents\visual studio 2012\Projects\Final project\Final project\bin\Debug\Final project.exe
+c:\users\amandeep\documents\visual studio 2012\Projects\Final project\Final project\bin\Debug\Final project.pdb
+c:\users\amandeep\documents\visual studio 2012\Projects\Final project\Final project\obj\Debug\Final project.exe
+c:\users\amandeep\documents\visual studio 2012\Projects\Final project\Final project\obj\Debug\Final project.pdb
+C:\Users\AMANDEEP\Documents\Visual Studio 2012\Projects\Final project\Final project\obj\Debug\Final_project.currency_exchange.resources
+C:\Users\AMANDEEP\Documents\Visual Studio 2012\Projects\Final project\Final project\obj\Debug\Final_project.Temperature_Conversion.resources
+C:\Users\AMANDEEP\Documents\Visual Studio 2012\Projects\Final project\Final project\obj\Debug\Final_project.Lotto_Max.resources
+C:\Users\AMANDEEP\Documents\Visual Studio 2012\Projects\Final project\Final project\obj\Debug\Final_project.Basic_calculator.resources
+C:\Users\AMANDEEP\Documents\Visual Studio 2012\Projects\Final project\Final project\obj\Debug\Final_project.Dashboard_amandeep.resources
+C:\Users\AMANDEEP\Documents\Visual Studio 2012\Projects\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\Final project.exe.config
+C:\Users\AMANDEEP\Documents\Visual Studio 2012\Projects\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.exe
+C:\Users\AMANDEEP\Documents\Visual Studio 2012\Projects\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.pdb
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\Final project.exe.config
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.exe
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.pdb
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\Final project.exe
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\Final project.pdb
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.csprojResolveAssemblyReference.cache
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Basic_calculator.resources
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.currency_exchange.resources
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Dashboard_amandeep.resources
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Lotto_Max.resources
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Temperature_Conversion.resources
+C:\Users\English\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.csproj.GenerateResource.Cache
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\Final project.exe.config
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.exe
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.pdb
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\Final project.exe
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\Final project.pdb
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\mscorlib.dll
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\normidna.nlp
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\normnfc.nlp
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\normnfd.nlp
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\normnfkc.nlp
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\normnfkd.nlp
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Basic_calculator.resources
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.currency_exchange.resources
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Dashboard_amandeep.resources
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Lotto_Max.resources
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Properties.Resources.resources
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final_project.Temperature_Conversion.resources
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.csproj.GenerateResource.Cache
+C:\Users\AMANDEEP\Downloads\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.csprojResolveAssemblyReference.cache
+C:\Users\AMANDEEP\Downloads\projects of c#\Amandeep_kaur final project c#\Final project\Final project\bin\Debug\Final project.exe.config
+C:\Users\AMANDEEP\Downloads\projects of c#\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.exe
+C:\Users\AMANDEEP\Downloads\projects of c#\Amandeep_kaur final project c#\Final project\Final project\obj\Debug\Final project.pdb
